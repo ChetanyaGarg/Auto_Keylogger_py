@@ -33,7 +33,7 @@ pip install pynput requests
 
 To clone the repository:
 ```bash
-git clone https://github.com/ChetanyaGarg/Password_Checker.git
+git clone https://github.com/ChetanyaGarg/Auto_Keylogger_py.git
 ```
 
 ### PHP Server Environment
