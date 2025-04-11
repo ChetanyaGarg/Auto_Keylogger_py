@@ -110,6 +110,5 @@ pip install pynput requests
 ---
 
 Happy coding and stay responsible!
-```
 
 ---
