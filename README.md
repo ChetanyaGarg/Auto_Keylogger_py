@@ -31,6 +31,11 @@ Install them using:
 pip install pynput requests
 ```
 
+To clone the repository:
+```bash
+git clone https://github.com/ChetanyaGarg/Password_Checker.git
+```
+
 ### PHP Server Environment
 - A web server with PHP support (e.g., **XAMPP**, **WAMP**, **LAMP**).
 - Ensure that the `uploads/` folder (inside the unzipped `datas` folder) is writable (on Linux, you might use `chmod 777 uploads`).
