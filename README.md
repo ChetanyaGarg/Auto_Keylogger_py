@@ -113,9 +113,3 @@ git clone https://github.com/ChetanyaGarg/Auto_Keylogger_py.git
   **The only change you need to make is updating the server IP in the `keylogger.py` file.** No other modifications should be necessary for the setup.
 
 ---
-
-## **License**
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it.
-
-
----
